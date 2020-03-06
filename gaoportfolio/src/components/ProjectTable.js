@@ -3,7 +3,7 @@ import React from 'react';
 import microdot from '../assets/newMicro.png';
 import snapchat from '../assets/newsnapirena.png';
 import chett from '../assets/chettban.png';
-import lcl from '../assets/lclpg.png';
+import lcl from '../assets/lifechanginglabscard.png';
 import dynalec from '../assets/dynaleccard.png';
 
 import Container from 'react-bootstrap/Container';
